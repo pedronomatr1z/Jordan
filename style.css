@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.parte1{
+    background-color: red;
+    
+}
+
+
+.logo{
+    width: 400px;
+    height: 500px;
+}
+
+
+
+.parte1 {
+    background-color:#c22026;
+     height: 400px;
+   
+}
+
+header {
+    width: 100%;
+    height: 100vh;
+}
+
+a {
+    text-decoration: none;
+}
+
+header .menu {
+
+    height: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+
+}
+
+header .menu li {
+    display: inline-block;
+    color: black;
+    font-size: 25px;
+    font-family: fantasy;
+
+}
+
+header .menu li:hover {
+    color: white;
+
+}
+
+
+header .menu a {
+    color: white;
+    padding: 8px 12px;
+
+}
+
+.botao a {
+    text-decoration: none;
+}
+
+
+.letras{
+    width: 300px;
+}
+
+.nikerun{
+    height: -1-px;
+    width: 300px;
+
+}
+
+.nike{
+    height: 150px;
+    width: 300px;
+    margin-top: 130px;
+
+
+}
+
+
+.parte2{
+    background-color: black;
+    height: 1100px;
+
+}
+
+.dunk{
+    height: 1010px;
+    width: 2119px;
+}
+
+.index2{
+    background-color: black;
+    height: 400px;
+
+}
+
+.logo2{
+    height: 550px;
+    width: 300px;
+    margin-left: 400px;
+    margin-top: 5px;
+}
+
+.logo23{
+    height: 800px;
+    margin-top: 50px;
+    margin-left: 250px;
+
+}
+
+.black{
+    background-color: black;
+    height: 900px;
+
+}
+
+.story{
+   margin-top: -700px;
+   margin-left: 1100px;
+    color: white;
+    font-size: 40px;
+}
+
+
+.parte3{
+    background-color: black;
+    height: 470px;
+
+}
+  
+
+.logo24{
+   height: 500px;
+   width: 500px;
+   margin-left: 750px;
+
+
+}
+
+.final1{
+    background-color: #c22026;
+    height: 900px;
+}
+
+.jordan1{
+    margin-left: 750px;
+    margin-top: 150px;
+}
